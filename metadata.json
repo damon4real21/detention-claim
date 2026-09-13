@@ -1,0 +1,7 @@
+{
+  "name": "DetentionClaim - Freight Detention Collector",
+  "description": "Automated freight detention tracking, GPS gate audit logging, and 1-click broker claim packet generation for trucking carriers.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
